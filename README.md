@@ -12,6 +12,7 @@ This repository holds a collection of LeetCode questions solved.
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -29,4 +30,8 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
