@@ -11,6 +11,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -44,6 +45,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0035-search-insert-position) |
@@ -55,6 +57,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
