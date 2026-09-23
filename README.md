@@ -14,6 +14,7 @@ This repository holds a collection of LeetCode questions solved.
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ This repository holds a collection of LeetCode questions solved.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
