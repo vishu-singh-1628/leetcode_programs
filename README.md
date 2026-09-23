@@ -19,6 +19,7 @@ This repository holds a collection of LeetCode questions solved.
 | [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -30,6 +31,7 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
