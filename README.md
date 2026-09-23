@@ -32,6 +32,7 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +56,8 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
