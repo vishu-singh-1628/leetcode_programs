@@ -16,6 +16,7 @@ This repository holds a collection of LeetCode questions solved.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1920-build-array-from-permutation) |
@@ -46,4 +47,12 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0041-first-missing-positive) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
