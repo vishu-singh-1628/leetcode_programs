@@ -20,10 +20,12 @@ This repository holds a collection of LeetCode questions solved.
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
