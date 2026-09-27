@@ -112,4 +112,9 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
