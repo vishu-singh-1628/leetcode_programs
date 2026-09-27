@@ -40,6 +40,7 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0344-reverse-string) |
@@ -107,4 +108,8 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
