@@ -18,6 +18,7 @@ This repository holds a collection of LeetCode questions solved.
 | [0035-search-insert-position](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0344-reverse-string) |
 ## Greedy
@@ -74,6 +76,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -96,4 +99,12 @@ This repository holds a collection of LeetCode questions solved.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
