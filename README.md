@@ -11,6 +11,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0033-search-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ This repository holds a collection of LeetCode questions solved.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vishu-singh-1628/leetcode_programs/tree/master/0041-first-missing-positive) |
 ## Divide and Conquer
 |  |
